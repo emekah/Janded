@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="607" height="165" viewBox="0 0 607 165">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="99" height="99" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_16" data-name="Group 16" transform="translate(-2139 -939)">
+    <text id="Janded" transform="translate(2746 1071)" fill="#221c16" font-size="140" font-family="Raleway-Bold, Raleway" font-weight="700"><tspan x="-497.14" y="0">J</tspan><tspan y="0" fill="#6449fa">a</tspan><tspan y="0">nded</tspan></text>
+    <g id="preloader" transform="translate(2139 972)" clip-path="url(#clip-path)">
+      <path id="Path_14" data-name="Path 14" d="M14.7,12.7a41.939,41.939,0,0,1,59.311,0h0a41.939,41.939,0,0,1,0,59.311L50.949,95.079a9.319,9.319,0,0,1-13.18,0L14.7,72.014a41.939,41.939,0,0,1,0-59.311Z" transform="translate(5.336 0.926)" fill="#6449fa"/>
+      <path id="Path_15" data-name="Path 15" d="M34.442,15.555H29.006l-.777,1.553H22.016l-.777-1.553H15.8a4.66,4.66,0,0,0-4.66,4.66V45.844A4.66,4.66,0,0,0,15.8,50.5v.777a1.553,1.553,0,1,0,3.107,0V50.5H31.336v.777a1.553,1.553,0,1,0,3.107,0V50.5a4.66,4.66,0,0,0,4.66-4.66V20.215a4.66,4.66,0,0,0-4.66-4.66ZM18.909,43.514a1.553,1.553,0,1,1-3.107,0V24.1a1.553,1.553,0,1,1,3.107,0Zm7.767,0a1.553,1.553,0,0,1-3.107,0V24.1a1.553,1.553,0,0,1,3.107,0Zm7.766,0a1.553,1.553,0,1,1-3.107,0V24.1a1.553,1.553,0,1,1,3.107,0Zm-14.756-33.4H30.559V14h1.553V7.788a1.553,1.553,0,0,0-1.553-1.553H19.686a1.553,1.553,0,0,0-1.553,1.553V14h1.553Z" transform="translate(24.573 13.75)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
